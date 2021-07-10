@@ -15,7 +15,7 @@ ___
 * JavaScript
     * Angular/React Hooks
 * Node.js
-    *Express
+    * Express
 * Java 
     * Sprint Boot
 * MySQL and MongoDB
