@@ -1,5 +1,5 @@
 <!-- HEADINGS-->
-![jf](johana.png)
+![jf](jfs.png)
 # **Hello**  👋  👋 
 ___
 ## My name is Johana. I'm web **Developer**  and I've a degree in **advertising and public relations**.
