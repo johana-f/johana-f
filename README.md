@@ -2,7 +2,7 @@
 ![jf](johana.png)
 # *Hello*  👋  👋 
 ___
-## My name is Johana. I'm a **Develper** web and **advertising and public relations**
+## My name is Johana. I'm web ** Developer**  and I've a degree in ** advertising and public relations **.
 ___
 `console.log('hello world!')`
 ___
